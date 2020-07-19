@@ -1,5 +1,5 @@
 ---
-layout: post-hide
+layout: post
 title: You're up and running!
 ---
 
