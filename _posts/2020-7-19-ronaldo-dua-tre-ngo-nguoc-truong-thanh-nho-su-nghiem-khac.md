@@ -3,7 +3,7 @@ layout: post
 title: RONALDO - ĐỨA TRẺ NGỖ NGƯỢC TRƯỞNG THÀNH NHỜ SỰ NGHIÊM KHẮC
 ---
 
-### Trong giai đoạn khởi nghiệp tại các đội trẻ Sporting Lisbon, Cristiano Ronaldo từng nhiều lần khiến các huấn luyện viên và người lớn phiền lòng vì sự ngỗ ngược của mình.
+> Trong giai đoạn khởi nghiệp tại các đội trẻ Sporting Lisbon, Cristiano Ronaldo từng nhiều lần khiến các huấn luyện viên và người lớn phiền lòng vì sự ngỗ ngược của mình.
 #### Ai cũng có những trang sách cuộc đời đôi lúc khiến họ phải xấu hổ khi nhìn lại. Ronaldo không phải là ngoại lệ.
 
 Trong cuốn sách: “CR7 - Những bí mật về một cỗ máy”, hai tác giả Luis Miguel Pereira và Juan Ignacio Gallardo đã lật giở những trang ký ức có phần không mấy tự hào của siêu sao bóng đá đang chơi cho Juventus.
@@ -73,3 +73,6 @@ Ai cũng có thời tuổi trẻ nông nổi. Ronaldo không là ngoại lệ. S
 Tuy nhiên, cựu cầu thủ Real có lẽ sẽ không làm được điều đó, nếu thiếu đi sự chăm lo của người mẹ hay sự bao dung và thấu hiểu của các HLV đội trẻ Sporting Lisbon.
 
 ![Ronaldo]({{ site.baseurl }}https://znews-photo.zadn.vn/Uploaded/bpivpawv/2020_07_17/nintchdbpict000266367973_1.jpg "Ronaldo")
+
+----
+****
