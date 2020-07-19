@@ -18,7 +18,7 @@ Bước ngoặt lớn nhất cuộc đời cầu thủ người Bồ Đào Nha �
 
 Khỏi phải nói Ronaldo vui như thế nào. Sporting khi đó đang là một trong những CLB lớn nhất Bồ Đào Nha. Không chỉ các cầu thủ ở đội một, mọi con mắt cũng luôn đổ dồn về các cầu thủ ở học viện, những ngôi sao tương lai của bóng đá châu Âu.
 
-![Ronaldo]({{ site.baseurl }}https://znews-photo.zadn.vn/Uploaded/bpivpawv/2020_07_17/ronaldobe2.jpg "Ronaldo")
+![Ronaldo](https://znews-photo.zadn.vn/Uploaded/bpivpawv/2020_07_17/ronaldobe2.jpg "Ronaldo")
 
 Với các cầu thủ trẻ muốn vươn lên, Sporting là thiên đường khi có thể cho họ bước đệm tiến ra châu Âu. Sau 3 ngày thử việc, Ronaldo thuyết phục được ban lãnh đạo Sporting Lisbon bỏ ra hơn 2.000 euro để ký hợp đồng với cầu thủ.
 
@@ -42,7 +42,7 @@ Ngoài việc chưa trưởng thành và hay mất bình tĩnh, việc Ronaldo v
 
 Động cơ duy nhất thúc đẩy Ronaldo đi học đó là việc được chơi bóng. “Các giáo viên thường xuyên thấy Ronaldo xuất hiện ở trường nhưng không phải để tham dự các bài giảng, mà là để chơi bóng đá”, báo cáo của CLB Sporting Lisbon có đoạn viết.
 
-![Ronaldo]({{ site.baseurl }}https://znews-photo.zadn.vn/Uploaded/bpivpawv/2020_07_17/135783447_cristiano_ronaldo_archive_1.jpg "Ronaldo")
+![Ronaldo](https://znews-photo.zadn.vn/Uploaded/bpivpawv/2020_07_17/135783447_cristiano_ronaldo_archive_1.jpg "Ronaldo")
 
 ## Sự uốn nắn cần thiết
 
@@ -72,7 +72,7 @@ Ai cũng có thời tuổi trẻ nông nổi. Ronaldo không là ngoại lệ. S
 
 Tuy nhiên, cựu cầu thủ Real có lẽ sẽ không làm được điều đó, nếu thiếu đi sự chăm lo của người mẹ hay sự bao dung và thấu hiểu của các HLV đội trẻ Sporting Lisbon.
 
-![Ronaldo]({{ site.baseurl }}https://znews-photo.zadn.vn/Uploaded/bpivpawv/2020_07_17/nintchdbpict000266367973_1.jpg "Ronaldo")
+![Ronaldo](https://znews-photo.zadn.vn/Uploaded/bpivpawv/2020_07_17/nintchdbpict000266367973_1.jpg "Ronaldo")
 
 ----
 ****
