@@ -27,7 +27,7 @@ Tương tự, AI có thể giúp rèn giũa nên những thám tử, nhân viên
 
 ![_config.yml](https://znews-photo.zadn.vn/w1024/Uploaded/oplukaa/2020_06_30/MG_0087.JPG)
 
-##Lao động không có chuyên môn sẽ thất nghiệp
+## Lao động không có chuyên môn sẽ thất nghiệp
  
  **T**uy nhiên, tất cả những công việc mới đó có lẽ sẽ yêu cầu trình độ chuyên môn rất cao, do đó sẽ nảy sinh vấn đề lao động không có chuyên môn bị thất nghiệp. Tạo ra các việc làm mới có thể sẽ dễ dàng hơn việc tái đào tạo những người có thể thật sự đảm nhận những công việc ấy.
 
