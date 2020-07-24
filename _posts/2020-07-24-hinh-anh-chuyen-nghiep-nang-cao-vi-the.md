@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Bí quyết kiến tạo hình ảnh cá nhân cuốn hút và chuyên nghiệp
+published: true
 ---
 
-## Bí quyết kiến tạo hình ảnh cá nhân cuốn hút và chuyên nghiệp
 
 **Vẻ ngoài của bạn tiết lộ bạn là ai, đừng vì sự thoải mái nhất thời phá đi hình ảnh chuyên nghiệp. Đây là những lưu ý giúp bạn xây dựng hình ảnh, nâng cao vị thế cá nhân.**
 
@@ -53,35 +53,3 @@ Hành trình gian nan, có niềm tin tất sẽ đưa bạn tới đích. Trên
 Làm thế nào để bạn có thể đi trọn vẹn con đường kiến tạo hình ảnh bản thân của mình? Hãy đọc cuốn sách Hình ảnh chuyên nghiệp nâng cao vị thế của tác giả Pang Li Kin, bạn sẽ có được câu trả lời hữu ích.
 
 > Pang Li Kin là chuyên gia tư vấn hình ảnh cá nhân, nhà sáng lập kiêm giám đốc điều hành Potenxia Unlimited. Với những lời khuyên có cơ sở và những chỉ dẫn thiết thực, cuốn sách sẽ giúp bạn nhận ra cách để bản thân từ tốt trở nên vĩ đại. Hình ảnh chuyên nghiệp nâng cao vị thế do Saigon Books mua bản quyền và phát hành vào tháng 6/2020 sẽ là một tấm bản đồ hoàn hảo giúp bạn đi trên con đường kiến tạo bản thân một cách xuất sắc.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
