@@ -1,6 +1,8 @@
 ---
-published: false
+layout: post
+title: Bí quyết kiến tạo hình ảnh cá nhân cuốn hút và chuyên nghiệp
 ---
+
 ## Bí quyết kiến tạo hình ảnh cá nhân cuốn hút và chuyên nghiệp
 
 **Vẻ ngoài của bạn tiết lộ bạn là ai, đừng vì sự thoải mái nhất thời phá đi hình ảnh chuyên nghiệp. Đây là những lưu ý giúp bạn xây dựng hình ảnh, nâng cao vị thế cá nhân.**
