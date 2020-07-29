@@ -87,7 +87,7 @@ Tôi biết thừa bạn ấy chẳng hiểu gì, nhưng bạn ấy cứ khen �
 
 Ôi! Tôi lại bị cơn sung sướng vật giãy uỳnh uỳnh, cười nắc nẻ trên giường. [...]
 
-![Sách Đường ngược chiều. Ảnh: Sống.]({{site.baseurl}}/https://znews-photo.zadn.vn/w660/Uploaded/oplukaa/2020_07_27/z1774787788056_c5916952fabe3448a30bbcf57335cdba.jpg)
+![Sách Đường ngược chiều. Ảnh: Sống.](https://znews-photo.zadn.vn/w660/Uploaded/oplukaa/2020_07_27/z1774787788056_c5916952fabe3448a30bbcf57335cdba.jpg)
 
 ## Suất học bổng trong mơ
 
