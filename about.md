@@ -8,8 +8,17 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Name: Do Nhat
+Age: 16
+Address: Ha Noi, Viet Nam
+Facebook: [Facebook](https://fb.com/cuzin.xyz/)
+Github: [Github](https://github.com/cuzinxyz)
+Interest: Soccer, Learn English, Learn Code, ❤NTKC❤
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cuzin2k3@gmail.com](mailto:cuzin2k3@gmail.com)
+
+I Love ❤ ❤ Nguyen Thi Kim Cúc ❤ ❤
+
+// thank you so much //
