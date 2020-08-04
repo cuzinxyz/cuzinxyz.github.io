@@ -1,13 +1,15 @@
 ---
 layout: post
 title: 'Những ngày cách ly' - bước vào thế giới khác
+published: true
+
 ---
 
 Hoàng Cúc dậy sớm hơn thường lệ. Đêm trước đó mất ngủ và một ngày dài với những cơn xúc động khiến đêm qua cô thiếp đi lúc nào không hay. Hầu hết mọi người đều dậy sớm.
 
 Một giờ chiều, một chiếc xe cứu thương xuất hiện trước cổng căn biệt thự gia đình ông Trương. Họ đến để thông báo rằng kết quả xét nghiệm Covid-19 lần thứ hai của Tony khẳng định anh đã nhiễm bệnh và rằng ông bà Trương và Hoàng Cúc có hai tiếng đồng hồ để thu xếp hành lý đi cách ly tập trung. Chị giúp việc, vì không tiếp xúc trực tiếp với Tony, sẽ bị cách ly tại nhà.
 
-[Tiểu thuyết Những ngày cách ly. Ảnh: Trần Đình Ba.](https://znews-photo.zadn.vn/w1024/Uploaded/jotnhg/2020_07_29/20200729_152154.jpg)
+![Tiểu thuyết Những ngày cách ly. Ảnh: Trần Đình Ba.](https://znews-photo.zadn.vn/w1024/Uploaded/jotnhg/2020_07_29/20200729_152154.jpg)
 
 ## Khu cách ly
 
@@ -25,7 +27,7 @@ Giữa sân là một đống va li, ba lô, túi xách cũng thập cẩm hổ 
 
 Dòng người nhích dần về phía chiếc bàn gỗ dài kê dưới một chiếc ô màu xanh lục to cỡ cái giường đôi. Bên chiếc bàn gỗ, ba nhân viên đang làm thủ tục cho những người cách ly mới đến. Người ngồi ngoài cùng bên phải có dáng người rắn rỏi và cao hơn hẳn, bộ quân phục màu xanh lục với những đường cắt khỏe khoắn cùng đôi ngù vai thẳng tắp vẫn hiện lên dưới lớp vải nhựa trong suốt. Đó chính là Tuấn. Tuấn vốn là học viên tại trường và là một trong số những người tình nguyện ở lại khu cách ly.
 
-[Khu cách ly. Ảnh: Báo Dân trí.](https://znews-photo.zadn.vn/w1024/Uploaded/jotnhg/2020_08_03/img_4005_1596099990100.jpg)
+![Khu cách ly. Ảnh: Báo Dân trí.](https://znews-photo.zadn.vn/w1024/Uploaded/jotnhg/2020_08_03/img_4005_1596099990100.jpg)
 
 ## Một thế giới khác
 
@@ -47,7 +49,7 @@ Bà Trương lần lượt mở hai cái hộp xốp: cơm, đậu cô-ve xào t
 
 Ông Trương thường nói đùa với con gái rằng đời là một cuộc dạo chơi trên con tàu lượn siêu tốc trong một công viên giải trí; nắm được quy luật cuộc chơi sẽ nắm được tất cả. Từ trước tới nay, ông vẫn luôn nắm được vận mệnh trong tay. Thế nhưng, biến cố bất ngờ này hoàn toàn nằm ngoài những toan tính của ông.
 
-[Đọc sách báo trong khu cách ly. Ảnh: Tạp chí Lao động và Công đoàn.](https://znews-photo.zadn.vn/w1024/Uploaded/jotnhg/2020_08_03/2157_cach_ly.jpg)
+![Đọc sách báo trong khu cách ly. Ảnh: Tạp chí Lao động và Công đoàn.](https://znews-photo.zadn.vn/w1024/Uploaded/jotnhg/2020_08_03/2157_cach_ly.jpg)
 
 Sáng hôm sau, Hoàng Cúc dậy sớm hơn thường lệ. Đêm trước đó mất ngủ và một ngày dài với những cơn xúc động khiến đêm qua cô thiếp đi lúc nào không hay. Hầu hết mọi người trong khu cách ly đều dậy sớm. Có lẽ ai cũng mong cho ngày cũ chóng qua; họ chờ đón ngày mới sẽ mang tới một điều gì đó mới mẻ, một cái gì khác với hôm qua.
 
