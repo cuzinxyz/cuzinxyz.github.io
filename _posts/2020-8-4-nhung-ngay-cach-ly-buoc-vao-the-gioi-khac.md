@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Những ngày cách ly' - bước vào thế giới khác
+title: Những ngày cách ly - bước vào thế giới khác
 published: true
 
 ---
