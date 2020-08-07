@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NGƯỜI LEBANON: HÃY ĐỂ MACRON LÀ TỔNG THỐNG CỦA CHÚNG TÔI
+title: NGƯỜI LEBANON   HÃY ĐỂ MACRON LÀ TỔNG THỐNG CỦA CHÚNG TÔI
 published: true
 ---
 ![Hình ảnh Tổng thống Pháp Macron tới Beirut](https://znews-photo.zadn.vn/Uploaded/sgtnrb/2020_08_07/macronn_2_.JPG)
