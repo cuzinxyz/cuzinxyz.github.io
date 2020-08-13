@@ -1,3 +1,9 @@
+---
+layout: post
+title: CUBA VÀ VIỆT NAM  NHỮNG NGƯỜI ANH EM TỪ TRONG LỊCH SỬ
+published: true
+---
+
 ĐÂY KHÔNG PHẢI LÀ BIÊN NIÊN SỬ:
 "CUBA VÀ VIỆT NAM: NHỮNG NGƯỜI ANH EM TỪ TRONG LỊCH SỬ"
 
