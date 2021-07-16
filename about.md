@@ -24,6 +24,6 @@ Interest: Soccer, Learn English, Learn Code, ❤NTKC❤
 
 [cuzin2k3@gmail.com](mailto:cuzin2k3@gmail.com)
 
-*I Love ❤ ❤ Nguyen Thi Kim Cúc ❤ ❤*
+*I Love ❤ ❤ Web Dev ❤ ❤*
 
 // thank you so much //
